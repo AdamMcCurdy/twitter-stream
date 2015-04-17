@@ -12,9 +12,17 @@ var channels = {
 		]
 };
 var blackList = [
-'beer',
-'hungry',
-'dove'
+'anwar',
+'tamerlan',
+'dzhokhar',
+'tsarnaev',
+'attack',
+'kill',
+'trial',
+'sentenc'
+'murder',
+'explo',
+'bomb'
 ];
 
 function isBlackListed(str, arr)
