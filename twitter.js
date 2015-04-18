@@ -6,9 +6,14 @@ var client = new TwitterStreamChannels(credentials);
 
 var channels = {
  "languages" : [
-		'#andreamsofcake',
-    '#AndreamsOfCake',
-    '#andreamsOfCake'
+		'#AdidasRunning',
+		'#adidasrunning',
+		'#Adidasrunning
+		'#BostonRunbase',
+		'#bostonrunbase',
+		'#Bostonrunbase',
+		'#BostonMarathon',
+		'#bostonmarathon'
 		]
 };
 var blackList = [
