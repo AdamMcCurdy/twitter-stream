@@ -6,13 +6,18 @@ var client = new TwitterStreamChannels(credentials);
 
 var channels = {
  "languages" : [
+		'#adidas',
+		'#Adidas',
 		'#AdidasRunning', 
 		'#adidasrunning', 
 		'#bostonmarathon',
-		'#BostonMarathon', 
+		'#BostonMarathon',
+		'#Bostonmarathon', 
+		'#BOSTONMARATHON',
 		'#bostonrunbase',
 		'#BostonRunbase',
-		'#BostonRunBase'
+		'#BostonRunBase',
+		'#BOSTONRUNBASE'
 		]
 };
 
