@@ -6,6 +6,7 @@ var client = new TwitterStreamChannels(credentials);
 
 var channels = {
  "languages" : [
+<<<<<<< HEAD
 		'#AdidasRunning',
 		'#adidasrunning',
 		'#Adidasrunning
@@ -14,6 +15,20 @@ var channels = {
 		'#Bostonrunbase',
 		'#BostonMarathon',
 		'#bostonmarathon'
+=======
+		'#adidas',
+		'#Adidas',
+		'#AdidasRunning', 
+		'#adidasrunning', 
+		'#bostonmarathon',
+		'#BostonMarathon',
+		'#Bostonmarathon', 
+		'#BOSTONMARATHON',
+		'#bostonrunbase',
+		'#BostonRunbase',
+		'#BostonRunBase',
+		'#BOSTONRUNBASE'
+>>>>>>> 558d042
 		]
 };
 var blackList = [
